@@ -53,7 +53,7 @@ catalog=
 	"Prerequestite": "none",
 	"Course_Description": "Students will navigate the Minecraft world, collaborate and communicate with each other to explore, complete quests, strategize and build creations. They will practice digital citizenship, creative thinking, teamwork and problem solving skills. Laptops are networked without internet access so that students can learn and have fun with each other in a safe “cyber” environment. Network , server and application concepts will also be discussed.",
 	"Note": "Students’ projects will be available for download a week after the completion of the course.",
-	"Image":"mcsurvival.jpg"
+	"Image":"mcsurvival.png"
 },{
 	"Program_Name": "Enrichment Program",
 	"Course_Categories": "Minecraft",
@@ -64,7 +64,7 @@ catalog=
 	"Prerequestite": "Minecraft experience",
 	"Course_Description": "Students will learn about the seven wonders of the world as well as some other famous monuments. Utilizing various blocks, ores, crafted items, tools, students are challenged to either replicate a famous structure and then design their own structure with some real and/or made-up fun facts. Teachers will provide tips and tricks on building better structures in Minecraft. This class maybe taken more than once, because different structure types from different geographical location and/or time period will be discussed.",
 	"Note": "Students' projects will be available for downlaod a week after the completion of the course.",
-	"Image":"mcwonders.jpg"
+	"Image":"mcwonders.png"
 },{
 	"Program_Name": "Enrichment Program",
 	"Course_Categories": "Game Design",
@@ -97,5 +97,5 @@ catalog=
 	"Prerequestite": "Experience with computers",
 	"Course_Description": "PacMan is among one of the most popular arcade-style video games that appeas to young and old, as well as both genders. Students will create maze games that will focus on the strategies for good quality games for the appropriate age and difficulty level. In additional to implementing strategies, and learning the basic software skills, students will learn about designing a splash page, changing sprite during the game, reversing directions, moving to new level based on scores.",
 	"Note": "Students’ projects will be available for download a week after the completion of the course.",
-	"Image":"gcpacman.jpg"
+	"Image":"gcpacman.png"
 }]
