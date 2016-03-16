@@ -31,7 +31,7 @@ $('.course-filter').click(function(){
 });
 
 function renderClasses() {
-	console.log(active_filter);
+	//console.log(active_filter);
 	var num_courses = -1
 	for (var i = 0; i < catalog.length; i++) {
 		if (active_filter == "All" || active_filter == catalog[i].Course_Categories) {

@@ -1,0 +1,13 @@
+catalog=
+[{
+	"Program_Name": "Enrichment Program",
+	"Course_Categories": "Robotics",
+	"Course_Name": "Lego WeDo Robots",
+	"Course_Suffix": "",
+	"Course_Code": "LWDR",
+	"Age": "Grade 1 &amp; 2",
+	"Prerequisite": "none",
+	"Course_Description": "This class provides the opportunity for the younger children to get an introduction to simple robotics. Build and program dancing birds, drumming monkeys, hungry alligators, roaring lions and flapping birds. Students learn to build models, attach sensors and motors and use a computer to program the model’s actions and behaviors. Students will also learn about simple engineering concepts such as pulleys, belts, gear and levels, while having a blast with their creations. Students can repeat this course; instructor can challenge students with different robot projects.",
+	"Note": "Students will not take the robots home. Robots and software can be bought from Lego",
+	"Image": "3dmodeling.jpg"
+}]
