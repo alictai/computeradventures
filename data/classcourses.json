@@ -8,6 +8,94 @@ catalog=
 	"Age": "Grade 1 &amp; 2",
 	"Prerequisite": "none",
 	"Course_Description": "This class provides the opportunity for the younger children to get an introduction to simple robotics. Build and program dancing birds, drumming monkeys, hungry alligators, roaring lions and flapping birds. Students learn to build models, attach sensors and motors and use a computer to program the model’s actions and behaviors. Students will also learn about simple engineering concepts such as pulleys, belts, gear and levels, while having a blast with their creations. Students can repeat this course; instructor can challenge students with different robot projects.",
-	"Note": "Students will not take the robots home. Robots and software can be bought from Lego",
+	"Note": "Students will not take the robots home. Robots and software can be bought from Lego.",
 	"Image": "3dmodeling.jpg"
+},{
+	"Program_Name": "Enrichment Program",
+	"Course_Categories": "Robotics",
+	"Course_Name": "Lego NXT Robotics Engineering",
+	"Course_Suffix": "",
+	"Course_Code": "LNXT",
+	"Age": "Grade 3 to 8",
+	"Prerequestite": "none",
+	"Course_Description": "This exciting class teaches you how to build and program LEGO® Mindstorms® NXT robots. You will use your new skills to meet such challenges as beating your opponent at Sumo or pushing water bottles out of a ring. This class will introduce programming concepts such as repeat loops and if/then statements, and sensor use will also be taught. For the student who has little or no experience with robotics or programming.",
+	"Note": "Students will not take the robots home. Robots and software can be bought from Lego.",
+	"Image":""
+},{
+	"Program_Name": "Enrichment Program",
+	"Course_Categories": "Digital Graphics",
+	"Course_Name": "Graphic Design with Photoshop",
+	"Course_Suffix": "",
+	"Course_Code": "GDPS",
+	"Age": "Grade 3 to 8",
+	"Prerequisite": "none",
+	"Course_Description": "This course will inspire the students to discover their artist, and create designs for various items. Students will design graphics to be printed on various products, and go home with some of their finished projects. The design skills learnt from these projects are transferable to many other products. Some samples products are greeting cards, buttons, magnets, keychains, bookmarks, bags, mousepads and tshirts.",
+	"Note": "Students’ projects will be available for download a week after the completion of the course.",
+	"Image":""
+},{
+	"Program_Name": "Enrichment Program",
+	"Course_Categories": "Animation",
+	"Course_Name": "Stop-motion Animated Movie Making",
+	"Course_Suffix": "",
+	"Course_Code": "SAMM",
+	"Age": "Grade 3 to 8",
+	"Prerequestite": "none",
+	"Course_Description": "Lights…Camera…Action! Students’ dream of having their favorite LEGO® characters come to life become a reality in our movie making class. Using stop-motion animation and digital post-production editing, students produce LEGO® Brickfilms much like the ones viewed on YouTube. Students learn about developing creative storytelling techniques, incorporating visual and audio special effects. This is a great class to take with friends. Students can take the class as many times as they like.",
+	"Note": "Students’ projects will be available for download a week after the completion of the course.",
+	"Image":""
+},{
+	"Program_Name": "Enrichment Program",
+	"Course_Categories": "Minecraft",
+	"Course_Name": "Minecraft Survival Quest",
+	"Course_Suffix": "",
+	"Course_Code": "MCSQ",
+	"Age": "Grade 3 to 8",
+	"Prerequestite": "none",
+	"Course_Description": "Students will navigate the Minecraft world, collaborate and communicate with each other to explore, complete quests, strategize and build creations. They will practice digital citizenship, creative thinking, teamwork and problem solving skills. Laptops are networked without internet access so that students can learn and have fun with each other in a safe “cyber” environment. Network , server and application concepts will also be discussed.",
+	"Note": "Students’ projects will be available for download a week after the completion of the course.",
+	"Image":""
+},{
+	"Program_Name": "Enrichment Program",
+	"Course_Categories": "Minecraft",
+	"Course_Name": "Minecraft Building - World Wonders",
+	"Course_Suffix": "",
+	"Course_Code": "MCBW",
+	"Age": "Grade 3 to 8",
+	"Prerequestite": "Minecraft experience",
+	"Course_Description": "Students will learn about the seven wonders of the world as well as some other famous monuments. Utilizing various blocks, ores, crafted items, tools, students are challenged to either replicate a famous structure and then design their own structure with some real and/or made-up fun facts. Teachers will provide tips and tricks on building better structures in Minecraft. This class maybe taken more than once, because different structure types from different geographical location and/or time period will be discussed.",
+	"Note": "Students' projects will be available for downlaod a week after the completion of the course.",
+	"Image":""
+},{
+	"Program_Name": "Enrichment Program",
+	"Course_Categories": "Game Design",
+	"Course_Name": "Microsoft&reg; Building - World Wonders",
+	"Course_Suffix": "",
+	"Course_Code": "KODU",
+	"Age": "Grade 3 to 8",
+	"Prerequestite": "none",
+	"Course_Description": "Microsoft’s Kodu gives users control of powerful programming tools using simple graphical commands. Students will create 3-D worlds, add characters, and then make them interact or complete tasks. Students will program scoring, spawning characters, enemy objects, timers, health and various game levels. Based on “when something happens”, “do something” logic, students analyze problems and structure their solutions. Student can repeat this class, as the instructor can work on different games.",
+	"Note": "Students’ projects will be available for download a week after the completion of the course.",
+	"Image":""
+},{
+	"Program_Name": "Enrichment Program",
+	"Course_Categories": "Game Design",
+	"Course_Name": "Computer Video Game Creation - Arcade",
+	"Course_Suffix": "",
+	"Course_Code": "CVGA",
+	"Age": "Grade 4 to 8",
+	"Prerequestite": "Experience with computers",
+	"Course_Description": "Students create their own customized functional arcade-style using Game Maker® software. This class will create game elements such as the player, enemies, bonuses, levels, lives, and program object movements. In addition to having fun and gaining a sense of accomplishment, students learn about programming logic, drag-and-drop programming; logical functions such as repeat loops, conditional statements and variables.",
+	"Note": "Students’ projects will be available for download a week after the completion of the course.",
+	"Image":""
+},{
+	"Program_Name": "Enrichment Program",
+	"Course_Categories": "Game Design",
+	"Course_Name": "Computer Video Game Creation - Pacman",
+	"Course_Suffix": "",
+	"Course_Code": "CVGP",
+	"Age": "Grade 5 to 8",
+	"Prerequestite": "Experience with computers",
+	"Course_Description": "PacMan is among one of the most popular arcade-style video games that appeas to young and old, as well as both genders. Students will create maze games that will focus on the strategies for good quality games for the appropriate age and difficulty level. In additional to implementing strategies, and learning the basic software skills, students will learn about designing a splash page, changing sprite during the game, reversing directions, moving to new level based on scores.",
+	"Note": "Students’ projects will be available for download a week after the completion of the course.",
+	"Image":""
 }]

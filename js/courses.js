@@ -55,9 +55,15 @@ function renderClasses() {
 				coursestring += "<h3>";
 			}
 			coursestring += catalog[i].Course_Name + "</h3>";
-	        coursestring += "<h5>"+catalog[i].Age+" | "+catalog[i].Course_Length+"</h5>";
-	        coursestring += "<p>Prerequisite: "+catalog[i].Prerequisite+"</p>";
+	        coursestring += "<h5>"+catalog[i].Age;
+	        if (catalog[i].Course_Length){
+	        	coursestring += " | "+catalog[i].Course_Length;
+	        }
+	        coursestring += "</h5><p>Prerequisite: "+catalog[i].Prerequisite+"</p>";
 	        coursestring += "<p>"+catalog[i].Course_Description+"</p>";
+	        if (catalog[i].Note){
+	        	coursestring += "<p><i>Note: " + catalog[i].Note + "</i></p>";
+	        }
 	        coursestring += "<a class=\"btn btn-primary form-control\" href=\"http://register.asapconnected.com/default.aspx?org=2346\" target=\"_blank\">Register Now!</a>";
 			coursestring += "</div></div></div>";
 
