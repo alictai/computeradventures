@@ -11,7 +11,7 @@ $(document).ready(function(){
 	$(".reg-form").attr("href", "http://www.computeradventures.com/SuCampForm-2015-d.pdf");
 
 	// summer camp 2015 brochure
-	$(".camp-broch").attr("href", "Brochure-WebDownload.pdf");
+	$(".camp-broch").attr("href", "documents/Brochure-WebDownload.pdf");
 
 	//---PARTIES AND EVENTS
 	// party registration email
@@ -20,5 +20,6 @@ $(document).ready(function(){
 	//---ENRICHMENT CLASSES
 	// enrichment class registration pdf
 	$(".reg-enrich").attr("href","http://www.computeradventures.com/ECForm-F2013-d.pdf");
+	// enrichment classes curriculum pdf
 	$(".enrich-curric").attr("herf","http://www.computeradventures.com/CourseDescription-2015F-ES.pdf");
 });

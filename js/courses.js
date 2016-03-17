@@ -64,7 +64,9 @@ function renderClasses() {
 	        if (catalog[i].Note){
 	        	coursestring += "<p><i>Note: " + catalog[i].Note + "</i></p>";
 	        }
-	        coursestring += "<a class=\"btn btn-primary form-control\" href=\"http://register.asapconnected.com/default.aspx?org=2346\" target=\"_blank\">Register Now!</a>";
+	        if (catalog[i].Program_Name == "Summer Camp 2016"){
+		        coursestring += "<a class=\"btn btn-primary form-control\" href=\"http://register.asapconnected.com/default.aspx?org=2346\" target=\"_blank\">Register Now!</a>";
+			}
 			coursestring += "</div></div></div>";
 
 			$("#catalog").append(coursestring);
